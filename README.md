@@ -1,2 +1,2 @@
-# Paradise-Bakery
-A basic website using HTML and CSS
+# Bakery-Website
+Simple HTML and CSS
