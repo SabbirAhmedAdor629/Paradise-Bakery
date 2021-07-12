@@ -1,2 +1,2 @@
 # Paradais-Bakery
-Simple HTML and CSS
+A basic website using HTML CSS
